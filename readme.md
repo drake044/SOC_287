@@ -5,8 +5,8 @@ This repository contains a detailed walkthrough of the CVE-2024-24919 vulnerabil
 
 ## Lab Walkthrough
 For a detailed walkthrough of this Let's Defend SOC lab, please refer to:
-[SOC287 Lab Walkthrough]([SOC287 Lab Walkthrough](SOC287%20-%20Arbitrary%20File%20Read%20on%20Checkpoint%20Securit%2054f2405b780549d3a338990c29c20f1f.md)
-)
+[SOC287 Lab Walkthrough](SOC287%20-%20Arbitrary%20File%20Read%20on%20Checkpoint%20Securit%2054f2405b780549d3a338990c29c20f1f.md)
+
 
 ## Overview
 - CVE ID: CVE-2024-24919
